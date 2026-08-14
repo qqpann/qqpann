@@ -1,7 +1,7 @@
 <h3>
   <a href="https://gameheads.gg">
     <img
-      align="middle"
+      align="absmiddle"
       src="https://gameheads.gg/apple-icon.png"
       width="24"
       height="24"
@@ -15,7 +15,7 @@
 <h3>
   <a href="https://notcms.com">
     <img
-      align="middle"
+      align="absmiddle"
       src="https://www.notcms.com/apple-icon.png"
       width="24"
       height="24"
